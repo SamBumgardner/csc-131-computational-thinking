@@ -8,7 +8,7 @@ The Lo Shu Magic Square is a 3 by 3 grid with the following properties:
  * The sum of each row, each column, and each diagonal all add up to the same number, 15.
  An example of a  Lo Shu Magic Square is as follows: 
 
-![Example Magic Square](/magic_square1.jpg)
+![Example Magic Square](/assignments/assignment_1/magic_square1.jpg)
 
  Remark: Image adopted from http://en.wikipedia.org/wiki/Magic_square
 
