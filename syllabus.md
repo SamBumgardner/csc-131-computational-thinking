@@ -2,7 +2,7 @@
 ## Course Policy Statement - Spring 2019
 Heavily based off of Dr. Saquer's [original syllabus](http://courses.missouristate.edu/jamilsaquer/csc131.html).
 
-**INSTRUCTOR:** Sam Bumgardner
+**Instructor:** Sam Bumgardner
 
 **Office:** No campus office - we'll likely meet in one of the open comp. sci labs. 
 
