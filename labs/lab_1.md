@@ -70,3 +70,5 @@ Sum of elements for column 3 is 12.00
 ```
 
 The format of the input and output of your program must be as in the sample run. When you are done, demonstrate your code to the instructor and upload your solution to your CSC131 upload folder in a folder called LABS. Please name your file `lab1.py`.
+
+Lab originally written by Dr. Saquer. See courses.missouristate.edu/JamilSaquer
