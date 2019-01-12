@@ -46,6 +46,9 @@ There will be approximately between 5 to 8 homework assignments in this course. 
 ### Lab Policy
 The lab activity will be posted on the course web site by 5:00 pm on Mondays. When possible, they will be posted before the weekend. Students are required to work on the lab activity before arriving to the lab and they need to arrive prepared. This means that students need to study the course material needed before the lab meets. Students will be required to finish the activity before leaving the lab. Your lab grade will be based on your ability to finish the lab activity before the end of the lab time and on how prepared you arrive to the lab.
 
+### Extra Credit
+I reserve the right to offer additional assignments as opportunities to earn extra credit throughout the semester. In the event that an extra credit assignment is offered, the details of the particular assignment and extra credit will be uploaded to the course website.
+
 ### Grading Distribution
  * First Midterm Exam: **18%**
  * Second Midterm Exam: **18%**
