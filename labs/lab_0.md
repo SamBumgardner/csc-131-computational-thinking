@@ -31,4 +31,4 @@ I like to play games (of the video- and tabletop- varieties) and read books.
 Your lucky number today is... 57
 ```
 
-The format of the output of your program (aside from the up-to-you function) must be as in the sample run. When you are done, demonstrate your code to the instructor and upload your solution to your CSC131 upload folder in a folder called LABS. Please name your file `lab0.py`.
+The format of the output of your program (aside from the up-to-you function) must be as in the sample run. When you are done, demonstrate your code to ***two other students in the class*** and the instructor and upload your solution to your CSC131 upload folder in a folder called LABS. Please name your file `lab0.py`.
