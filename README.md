@@ -7,12 +7,14 @@ Syllabus, Lecture Materials, Assignments, and Labs
 ## Course Content
 
 ### Lecture Materials
- * **Coming Soon!**
+ * [Parameter Passing](./lecture_materials/parameter_passing)
+ * [2D Lists](./lecture_materials/2d_lists)
 ### Assignments
- * [Assignment 1](https://github.com/SamBumgardner/csc-131-computational-thinking/tree/week-1-setup/assignments/assignment_1)
+ * [Assignment 1](./assignments/assignment_1)
  
 ### Labs
- * [Lab 1](labs/lab_1.md)
+ * [Lab 0](./labs/lab_0.md)
+ * [Lab 1](./labs/lab_1.md)
 
 ### Reference
  * **Learn X in Y Minutes** - Excellent crash courses in various computer languages.
