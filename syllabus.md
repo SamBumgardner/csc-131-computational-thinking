@@ -14,7 +14,7 @@ Heavily based off of Dr. Saquer's [original syllabus](http://courses.missourista
 
 **Lectures:** MWF 12:20 pm - 1:10 pm
 
-**LAB: Section 2** T 12:30 pm - 2:30 pm
+**LAB: Section 2** T 12:15 pm - 1:55 pm
 
 **Office Hours:** --***BY APPOINTMENT ONLY***-- T, R, F 5:30 - 7:00 (remote hours also possible - email me and we'll work something out)   
 
