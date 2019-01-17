@@ -16,7 +16,7 @@ Heavily based off of Dr. Saquer's [original syllabus](http://courses.missourista
 
 **LAB: Section 2** R 12:15 pm - 1:55 pm
 
-**Office Hours:** --***BY APPOINTMENT ONLY***-- T, R, F 5:30 - 7:00 (remote hours also possible - email me and we'll work something out)   
+**Office Hours:** --***BY APPOINTMENT ONLY***-- M, W, R, F 5:30 - 7:00 (remote hours also possible - email me and we'll work something out)   
 
 **Course Web Site:** https://github.com/SamBumgardner/csc-131-computational-thinking
 
