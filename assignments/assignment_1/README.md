@@ -1,6 +1,6 @@
 # CSC 131 - Computational Thinking
 ## Homework Assignment # 1
-**Due: Beginning of class on Wednesday, January 23, 2018.**
+**Due: Beginning of class on Friday, January 23, 2018.**
 
 The Lo Shu Magic Square is a 3 by 3 grid with the following properties:
 
@@ -34,6 +34,6 @@ invalid
 invalid
 invalid
 ```
-Notice that a different input file with a different number of lines may be used to test your code. All your code must be written inside functions. Make sure to use loops where needed instead of writing many additions. Please give your program the name `hw1.py`. Use comments to document and explain your code where needed. Make sure to upload an electronic copy of your source code in a folder called HW\hw1\ in your CSC 131 TRACE folder. It is always a good idea to make sure that your code runs correctly from inside your TRACE folder. Make sure to also turn in a stapled hard copy of the source code in class on the due date. Write your name and TRACE folder name at the top of your file. 
+Notice that a different input file with a different number of lines may be used to test your code. All your code must be written inside functions. Make sure to use loops where needed instead of writing many additions. Please give your program the name `hw1.py`. Use comments to document and explain your code where needed. To be graded, you **MUST** upload an electronic copy of your source code in a folder called HW\hw1\ in your CSC 131 TRACE folder. It is always a good idea to make sure that your code runs correctly from inside your TRACE folder. 
 
 Assignment originally written by Dr. Saquer. See https://courses.missouristate.edu/jamilsaquer/
