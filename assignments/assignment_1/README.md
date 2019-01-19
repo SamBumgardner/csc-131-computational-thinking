@@ -1,6 +1,6 @@
 # CSC 131 - Computational Thinking
 ## Homework Assignment # 1
-**Due: Beginning of class on Friday, January 23, 2018.**
+**Due: Beginning of class on Friday, January 25, 2019.**
 
 The Lo Shu Magic Square is a 3 by 3 grid with the following properties:
 
