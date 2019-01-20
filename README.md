@@ -21,6 +21,7 @@ Syllabus, Lecture Materials, Assignments, and Labs
  * **Learn X in Y Minutes** - Excellent crash courses in various computer languages.
      * [Learn Python in Y Minutes](https://learnxinyminutes.com/docs/python3/)
      * [Learn C++ in Y Minutes](https://learnxinyminutes.com/docs/c++/)
+ * **[LearnPython.org](https://learnpython.org/)** - **Interactive python tutorial**. A good way to introduce yourself to python if you prefer hands-on learning.
  * **[Python 3 documentation](https://docs.python.org/3/index.html)**
      * [Tutorial](https://docs.python.org/3/tutorial/index.html) - Good starting point / place to refresh broader topics
      * [Library Reference](https://docs.python.org/3/library/index.html) - Explains functionality of built-in objects and functions
