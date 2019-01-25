@@ -16,6 +16,7 @@ Syllabus, Lecture Materials, Assignments, and Labs
 ### Labs
  * [Lab 0](./labs/lab_0.md)
  * [Lab 1](./labs/lab_1.md)
+ * [Lab 2](./labs/lab_2.md)
 
 ### Reference
  * **Learn X in Y Minutes** - Excellent crash courses in various computer languages.
