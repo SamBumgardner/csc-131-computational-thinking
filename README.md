@@ -10,6 +10,8 @@ Syllabus, Lecture Materials, Assignments, and Labs
  * [Parameter Passing](./lecture_materials/parameter_passing)
  * [2D Lists](./lecture_materials/2d_lists)
  * [Higher Order Functions](./lecture_materials/higher_order_functions)
+ * [Recursion](./lecture_materials/recursion)
+ 
 ### Assignments
  * [Assignment 1](./assignments/assignment_1)
  
