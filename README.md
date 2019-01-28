@@ -13,6 +13,7 @@ Syllabus, Lecture Materials, Assignments, and Labs
  * [Recursion](./lecture_materials/recursion)
  
 ### Assignments
+ * [General Assignment Information](./assignments)
  * [Assignment 1](./assignments/assignment_1)
  
 ### Labs
