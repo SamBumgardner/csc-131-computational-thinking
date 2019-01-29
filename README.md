@@ -12,7 +12,8 @@ Syllabus, Lecture Materials, Assignments, and Labs
  * [Higher Order Functions](./lecture_materials/higher_order_functions)
 ### Assignments
  * [Assignment 1](./assignments/assignment_1)
- 
+ * [Assignment 2](./assignments/assignment_2)
+ * [Assignment 3](./assignments/assignment_3)
 ### Labs
  * [Lab 0](./labs/lab_0.md)
  * [Lab 1](./labs/lab_1.md)
