@@ -1,6 +1,6 @@
 # CSC 131 - Computational Thinking
 ## Homework Assignment # 2
-**Due: TBD**
+**Due: Wednesday, February 6**
 
 The game of "Jump It" consists of a board with n positive integers in a row except for the first column, which always contains zero. These numbers represent the cost to enter each column. Here is a sample game board where n is 6:
 
