@@ -11,12 +11,15 @@ Syllabus, Lecture Materials, Assignments, and Labs
  * [2D Lists](./lecture_materials/2d_lists)
  * [Higher Order Functions](./lecture_materials/higher_order_functions)
  * [Recursion](./lecture_materials/recursion)
+ * [Design With Classes](./lecture_materials/design_with_classes)
+ * [Review 1](https://docs.google.com/presentation/d/1cgZ7rctS1eEiy1D9nuuq7ukL-iMWvLc4Qel-yDgb-AQ/edit?usp=sharing)
  
 ### Assignments
  * [General Assignment Information](./assignments)
  * [Assignment 1](./assignments/assignment_1)
  * [Assignment 2](./assignments/assignment_2)
  * [Assignment 3](./assignments/assignment_3)
+ 
 ### Labs
  * [Lab 0](./labs/lab_0.md)
  * [Lab 1](./labs/lab_1.md)
