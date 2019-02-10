@@ -5,7 +5,7 @@ Write the code for a class named `Point` to represent a point in the Cartesian p
  * Two instance variables named `x` and `y` that represent the coordinates with `getX()` and `getY()` methods.
  * A constructor that constructs a point with specified coordinates, or with default values `0` and `0`.
  * An `__str__` method to return a string representation in the form `(x, y)`.
- * A method named `distance` that returns the distance from this point to another point. The formula for finding the distance between the two points (x1,y1) and (x2, y2) is `math.sqrt((x2 - x1) * 2 + (y2 - y1) * 2)`
+ * A method named `distance` that returns the distance from this point to another point. The formula for finding the distance between the two points (x1,y1) and (x2, y2) is `math.sqrt((x2 - x1) ** 2 + (y2 - y1) ** 2)`
  * A method named `originDistance` that returns the distance from this point to the point of origin (0,0).
  * Additional code so that points can be compared using the comparison operators. Points are compared based on their distance from the origin.
      * **Note:** Your code should allow using `==` and `!=` to compare a `Point` object with an object of a different type.
