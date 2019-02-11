@@ -81,13 +81,13 @@ The following letter grades will be determined as follows:
 | 3. January 28 – Feb 1    |  			Recursion                                                                |  			FP Section 6.3               |
 | 4. February 4 - 8        |  			Design with Classes                                                      |  			Chapter 8                    |
 | 5. February 11 – 15      |  			Design with Classes                                                      |  			Chapter 8                    |
-| 6. February 18 - 22      |  			February 18: Presidents’ Day   Design with Classes 	 February 19: Exam 1 |  			Chapters 8                   |
+| 6. February 18 - 22      |  			February 18: Presidents’ Day;   Design with Classes; 	**Friday, February 22: Exam 1** |  			Chapters 8                   |
 | 7. February 25 – March 1 |  			Graphical User Interfaces                                                |  			Chapter 9                    |
 | 8. March 4 – March 8     |  			Graphical User Interfaces                                                |  			Chapter 9                    |
 | March 11 – 15            |  			Spring Break                                                             |	                                         |
 | 9. March 18 – 22         |  			Graphical User Interfaces                                                |  			Chapter 9                    |
 | 10. March 25 – 29        |  			Graphical User Interfaces                                                |  			Chapter 9                    |
-| 11. April 1 - April 5    |  			C++: Intro; Program Structure; I/O; Data 			TypesApril 2: Exam 2 |  			Gaddis 1.3 –  1.7, Chapter 2 |
+| 11. April 1 - April 5    |  			C++: Intro; Program Structure; I/O; Data Types; April 2: Exam 2 |  			Gaddis 1.3 –  1.7, Chapter 2 |
 | 12. April 8 – 12         |  			C++: Mathematical Expressions; Formatting Output; 			Functions    |  			Chapters 3 & 6               |
 | 13. April 15 – 19        |  			C++: Characters & the String Class 	         April 18-18: Spring Holiday |  			10.1, 10.2, 10.7, 10.8       |
 | 14. April 22 – 26        |  			C++: Control Statements; Files                                           |  			Chapters 4 & 5               |
