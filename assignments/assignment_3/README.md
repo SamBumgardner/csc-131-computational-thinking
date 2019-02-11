@@ -10,13 +10,13 @@ A complex number is of the form `a + bi`, where `a` and `b` are real numbers and
 (a + bi) + (c + di) = (a + c) + (b + d)i 
 (a + bi) - (c + di) = (a - c) + (b - d)i 
 (a + bi) * (c + di) = (ac - bd) + (bc + ad)i 
-(a + bi) / (c + di) = (ac + bd)/(c2 + d2) + (bc - ad)i/(c2 + d2) 
+(a + bi) / (c + di) = (ac + bd) / (c ** 2 + d ** 2) + (bc - ad)i / (c ** 2 + d ** 2) 
 ```
 
 You can also obtain the absolute value (or length) of a complex number using the formula:
 
 ```python
-|a + bi| = sqrt(a2 + b2)
+|a + bi| = sqrt(a ** 2 + b ** 2)
 ```
 
 Implement a class named `Complex` for representing complex numbers with methods `__add__`, `__sub__`, `__mul__`, `__truediv__`, and `__abs__` for performing complex-number operations using `+`, `-`, `*`, `/`, and `abs()`. 
