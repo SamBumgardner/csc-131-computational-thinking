@@ -73,7 +73,7 @@ The function prompts the user to enter two `Complex` numbers. The input should b
 
 The output from your program must be similar to and use the same format as the following sample output, where input from the user is shown in red:
 
-```python
+```
 >>> main()
 Enter the first complex number: 2.5 4.5
 Enter the second complex number: -2.5 11.2
