@@ -1,6 +1,6 @@
 # CSC131: Computational Thinking 
 ## Homework Assignment # 3 
-**Due: TBD**
+**Due: Early (optional) grading - Wednesday, Feburary 20th | Normal due date - Monday, February 25th**
 
 Python has the complex class for performing complex number arithmetic. For this assignment, you will design and implement your own Complex class. Note that the complex class in Python is named in lowercase, while our custom Complex class is named with C in uppercase.
 
