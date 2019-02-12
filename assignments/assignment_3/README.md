@@ -6,18 +6,20 @@ Python has the complex class for performing complex number arithmetic. For this 
 
 A complex number is of the form `a + bi`, where `a` and `b` are real numbers and `i` is the square root of -1. The numbers `a` and `b` are known as the real part and the imaginary part of the complex number, respectively. You can perform addition, subtraction, multiplication, and division for complex numbers using the following formulas:
 
-```python
+```
 (a + bi) + (c + di) = (a + c) + (b + d)i 
 (a + bi) - (c + di) = (a - c) + (b - d)i 
 (a + bi) * (c + di) = (ac - bd) + (bc + ad)i 
-(a + bi) / (c + di) = (ac + bd)/(c2 + d2) + (bc - ad)i/(c2 + d2) 
+(a + bi) / (c + di) = (ac + bd) / (c^2 + d^2) + (bc - ad)i / (c^2 + d^2) 
 ```
 
 You can also obtain the absolute value (or length) of a complex number using the formula:
 
-```python
-|a + bi| = sqrt(a2 + b2)
 ```
+|a + bi| = sqrt(a^2 + b^2)
+```
+
+**Note:** the above equations are for mathematical reference **only**, and should **not** be treated as something you can insert directly into code.
 
 Implement a class named `Complex` for representing complex numbers with methods `__add__`, `__sub__`, `__mul__`, `__truediv__`, and `__abs__` for performing complex-number operations using `+`, `-`, `*`, `/`, and `abs()`. 
 
@@ -73,7 +75,7 @@ The function prompts the user to enter two `Complex` numbers. The input should b
 
 The output from your program must be similar to and use the same format as the following sample output, where input from the user is shown in red:
 
-```python
+```
 >>> main()
 Enter the first complex number: 2.5 4.5
 Enter the second complex number: -2.5 11.2
