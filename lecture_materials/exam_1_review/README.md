@@ -55,13 +55,13 @@ Aside from methods we've specifically lectured over (like `map()`, `filter()`, `
 I've included a list of topics to be familiar with below. I'll do my best to include everything relevant, I do NOT guarantee that this list is 100% accurate.
 
 List of Assumed Familiarity:
- * Language features
+ * **Language features**
      * Function definitions: `def`
      * Conditional statements: `if`, `elif`, and `else`
      * Boolean operators: `and`, `or`, `not`
      * Math operators: `+`, `-`, `*`, `/`, `%`, `**`
      * Loops: `for` and `while`
- * Built-in functions
+ * **Built-in functions**
      * `print()`
      * `range()`
      * `len()`
@@ -72,13 +72,13 @@ List of Assumed Familiarity:
      * `float()`
      * `str()`
      * `list()`
- * String type
+ * **String type**
      * `s.upper()`
      * `s.lower()`
      * `s.split()`
      * `s.strip()`
      * `s[some_index]`
- * List type
+ * **List type**
      * `l.sort()`
      * `l.append()`
      * `l[some_index]`
@@ -93,17 +93,17 @@ I recommend reviewing notes, **writing practice programs**, studying with other 
 If you have a solid foundation of knowledge and plenty of practice, you should understand these topics on both a theoretical and practical level. If you're armed with that understanding, this test should be no trouble whatsoever.
 
 The topics that may be covered in the test are as follows:
- * Parameter Passing
+ * **Parameter Passing**
      * Variables as labels (how variable assignment works)
      * Mutabilility vs. Immutability
          * Know which types are Mutable and which are Immutable
          * Understand how those types' methods differ
      * Understand how a changes to a parameter inside a function may affect variables outside that function
- * 2D Lists
+ * **2D Lists**
      * Valid ways to create a 2D list
      * How to access individual items inside nested lists (number of nested lists may be greater than 2)
      * Different ways of looping through 2D lists
- * Higher Order Functions
+ * **Higher Order Functions**
      * Functions as First-Class data objects
      * `map()` - inputs, functionality, output
      * `filter()` - inputs, functionality, output
@@ -111,7 +111,7 @@ The topics that may be covered in the test are as follows:
      * Anonymous functions - how to create them and how they work
      * List comprehensions
      * Ternary Operator (aka Conditional Expressions) 
- * Recursion
+ * **Recursion**
      * Recursive definitions
          * Identify if a definition is recursive
          * Understand and follow a recursive definition
@@ -121,7 +121,7 @@ The topics that may be covered in the test are as follows:
      * Evaluating a recursive solution
          * Identify if a recursive solution will never complete
          * Judge if a recursive solution accurately solves a problem
- * Design With Classes - up to content covered on Friday, Feb 15.
+ * **Design With Classes** - up to content covered on Friday, Feb 15.
      * Defining Classes
          * Evaluate if a class is defined correctly
          * Evaluate if a class's methods are defined correctly   
