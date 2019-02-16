@@ -94,7 +94,54 @@ If you have a solid foundation of knowledge and plenty of practice, you should u
 
 The topics that may be covered in the test are as follows:
  * Parameter Passing
+     * Variables as labels (how variable assignment works)
+     * Mutabilility vs. Immutability
+         * Know which types are Mutable and which are Immutable
+         * Understand how those types' methods differ
+     * Understand how a changes to a parameter inside a function may affect variables outside that function
  * 2D Lists
+     * Valid ways to create a 2D list
+     * How to access individual items inside nested lists (number of nested lists may be greater than 2)
+     * Different ways of looping through 2D lists
  * Higher Order Functions
+     * Functions as First-Class data objects
+     * `map()` - inputs, functionality, output
+     * `filter()` - inputs, functionality, output
+     * `reduce()` - inputs, functionality, output
+     * Anonymous functions - how to create them and how they work
+     * List comprehensions
+     * Ternary Operator (aka Conditional Expressions) 
  * Recursion
+     * Recursive definitions
+         * Identify if a definition is recursive
+         * Understand and follow a recursive definition
+     * Elements of a recursive solution
+         * Identify and understand base cases
+         * Identify and understand recursive cases
+     * Evaluating a recursive solution
+         * Identify if a recursive solution will never complete
+         * Judge if a recursive solution accurately solves a problem
  * Design With Classes - up to content covered on Friday, Feb 15.
+     * Defining Classes
+         * Evaluate if a class is defined correctly
+         * Evaluate if a class's methods are defined correctly   
+     * Understand definition and usage of instance variables
+     * Interpret a class's interface - understand how that class can / should be used
+     * Special class methods
+         * Understand purpose and correct usage of `__init__` method
+         * Understand purpose and correct usage of `__str__` method
+         * Understand purpose and correct usage of math methods: `__add__`, `__sub__`, `__mul__`, `__truediv__`
+         * Understand purpose and correct usage of comparison methods: `__eq__`, `__ne__`, `__lt__`, `__le__`, `__gt__`, `__ge__`
+     * Class variables
+         * Understand how they are created
+         * Understand how they are shared
+         * Understand how they can be accessed & changed.
+     * Ability to design class(es) to solve a problem
+         * Identify behaviors each instance of the class can do 
+         * Identify attributes each instance of the class should have
+         * Create an interface for a class, including
+             * Name for each method
+             * Parameters each method needs
+             * Short description of what the method does
+         * Decide how attributes should be stored
+         
