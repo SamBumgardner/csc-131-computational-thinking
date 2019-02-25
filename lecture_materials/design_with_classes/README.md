@@ -12,7 +12,9 @@
      * [rationalTest.py](./rationalTest.py) - Example program that uses the Rational class.
  * [craps.py](./craps.py) - Defines the `Player` class, which uses two `Die` objects (defined in the `die.py` file included below) to play a simple dice game. This is an excellent reference for how different classes can work together.
      * [die.py](./die.py) - Class representing a six-sided die. Can be "rolled" to get random results.
-
+ * [atm.py](./atm.py) - Class representing an ATM. Leverages Bank and SavingsAccount.
+     * [bank.py](./bank.py) - Defines SavingsAccount and Bank classes. Has examples of class variables and use of the 'pickle' module.
+         * [savings.py](./savings.py) - Defines RestrictedSavingsAccount class, shows an example of inheritance in action.
 
 ### External Reference
  * Coming Soon!
