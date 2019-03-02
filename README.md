@@ -13,6 +13,7 @@ Syllabus, Lecture Materials, Assignments, and Labs
  * [Recursion](./lecture_materials/recursion)
  * [Design With Classes](./lecture_materials/design_with_classes)
  * [Review 1](./lecture_materials/exam_1_review)
+ * [Graphical User Interfaces](./lecture_materials/graphical_user_interfaces)
  
 ### Assignments
  * [General Assignment Information](./assignments)
