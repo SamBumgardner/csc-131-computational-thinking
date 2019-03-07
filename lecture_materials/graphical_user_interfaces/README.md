@@ -5,11 +5,9 @@
  * [Graphical User Interfaces](https://docs.google.com/presentation/d/1h0NhRZsmWYolA0lxoYG2VO82usMPRYjlyb_4jvYe7Sk/edit?usp=sharing)
 
 ### Python Scripts
- * [bouncy.py](./bouncy.py) - Example of a simple terminal-based interface. Used in an example in the slides.
- * [labeldemo.py](./labeldemo.py) - Simple example using Tkinter's Label class.
- * [imagedemo.py](./imagedemo.py) - Simple example using Tkinter's PhotoImage class.
-     * [smokey.gif](./smokey.gif) - Image used in imagedemo.py
- * [buttondemo.py](./buttondemo.py) - Simple example using Tkinter's Button class.
+There are a lot of useful examples for this section of content. I've done my best to arrange the directory structure in a logical way that makes it easy to find the examples that are useful to you. 
+
+A description of an example file's purpose can be added to this section upon request, just let me know what needs clarifying.
 
 ### External Reference
- * Coming Soon!
+ * [Python Tkinter Documentation](https://effbot.org/tkinterbook/tkinter-index.htm#class-reference) - Tkinter documentation was surprisingly difficult to track down. This set of documentation hasn't been updated in a while, but it provides a pretty comprehensive overview of what all of the Tkinter widgets can do.
