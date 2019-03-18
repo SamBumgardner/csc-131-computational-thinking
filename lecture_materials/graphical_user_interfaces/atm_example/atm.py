@@ -142,3 +142,8 @@ def createBank(number = 0):
                                 str(1000 + i),
                                 100.00))
     bank.save("bank.dat")
+
+if __name__ == "__main__":
+    # execute only if run as a script
+    createBank(5)
+    main()
