@@ -59,17 +59,17 @@ The topics that may be covered in the test are as follows:
      * How to instantiate.
      * How to get value - `.get()`
      * How to set value - `.set()`
- * Widgets
+ * **Widgets**
      * Creation
      * Configuration
      * Interactions with widgets after creation
      * NOTE: any content in lecture slides is fair game, and a lot of it falls under this category.
- * Grid Logic
+ * **Grid Logic**
      * Basic grid - column and row
      * Column & row span
      * Making widgets "sticky" and resizable using grid 
      * Nested frames
- * Mouse and Keyboard Events
+ * **Mouse and Keyboard Events**
      * Specifics coming soon.
- * Specification Interpretation
+ * **Specification Interpretation**
      * Given a set of specifications or picture of the expected GUI, can identify what code will correctly create that GUI.
