@@ -87,7 +87,7 @@ The following letter grades will be determined as follows:
 | March 11 – 15            |  			Spring Break                                                             |	                                         |
 | 9. March 18 – 22         |  			Graphical User Interfaces                                                |  			Chapter 9                    |
 | 10. March 25 – 29        |  			Graphical User Interfaces                                                |  			Chapter 9                    |
-| 11. April 1 - April 5    |  			C++: Intro; Program Structure; I/O; Data Types; April 2: Exam 2 |  			Gaddis 1.3 –  1.7, Chapter 2 |
+| 11. April 1 - April 5    |  			C++: Intro; Program Structure; I/O; Data Types; **Wednesday, April 3: Exam 2** |  			Gaddis 1.3 –  1.7, Chapter 2 |
 | 12. April 8 – 12         |  			C++: Mathematical Expressions; Formatting Output; 			Functions    |  			Chapters 3 & 6               |
 | 13. April 15 – 19        |  			C++: Characters & the String Class 	         April 18-18: Spring Holiday |  			10.1, 10.2, 10.7, 10.8       |
 | 14. April 22 – 26        |  			C++: Control Statements; Files                                           |  			Chapters 4 & 5               |
