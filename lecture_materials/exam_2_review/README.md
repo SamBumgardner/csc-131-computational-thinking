@@ -50,26 +50,43 @@ The test will be over the information listed below. Information on all topics sh
 
 I recommend reviewing notes, **writing practice programs**, studying with other students, reviewing past homework / lab programs, reading the book, or looking up information online in addition to looking over presentation slides to prepare for this test.
 
-If you have a solid foundation of knowledge and plenty of practice, you should understand these topics on both a theoretical and practical level. If you're armed with that understanding, this test should be no trouble whatsoever.
+If you have a solid foundation of knowledge (with well-prepared pages of notes) and plenty of practice, you should understand these topics on both a theoretical and practical level. If you're armed with that understanding, this test should be no trouble whatsoever.
 
 The topics that may be covered in the test are as follows:
  * **Class Inheritance**
-     * Specifics coming soon.
+     * Understand how a child class inherits all parent class methods. (inheritance)
+     * Understand that a child class can re-define a method in a parent class. (polymorphism)
+         * When an object's method is called, a child's definition is called instead of a parent's when possible.
  * **Data Containers - `IntVar`, `StringVar`, `DoubleVar`**
-     * How to instantiate.
+     * How to instantiate with a default value.
      * How to get value - `.get()`
      * How to set value - `.set()`
  * **Widgets**
      * Creation
      * Configuration
+         * Don't forget about how to configure color, font, and size of different widgets.
      * Interactions with widgets after creation
-     * NOTE: any content in lecture slides is fair game, and a lot of it falls under this category.
+     * NOTE: any content in lecture slides is fair game, and a lot of it falls under this category. A list of widgets follows.
+         * Label
+         * Button
+         * Entry
+         * Frame
+         * Radiobutton
+         * Checkbutton
+         * Canvas
+         * Listbox
+         * Text
  * **Grid Logic**
-     * Basic grid - column and row
-     * Column & row span
-     * Making widgets "sticky" and resizable using grid 
-     * Nested frames
+     * Basic grid logic - positioning widgets with column, row, and span grid parameters.
+     * Uses of "sticky" griding:
+         * Aligning widgets within a grid cell.
+         * Setting a widget to expand horizontally, vertically, or in all directions.
+     * How to use nested frames for complex layouts.
  * **Mouse and Keyboard Events**
-     * Specifics coming soon.
+     * How to bind an event to a widget.
+         * Remember the requriments for an event-triggered function - must take a parameter to hold event information.
+     * Know all event types (mouse and keyboard) mentioned in the slides.
+         * Know what each event type means, e.g. `"<ButtonPress-1>"` means the left mouse button was clicked on the widget.
+     * Know what data is included in the passed-in event object and how it is accessed.
  * **Specification Interpretation**
      * Given a set of specifications or picture of the expected GUI, can identify what code will correctly create that GUI.
