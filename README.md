@@ -15,6 +15,7 @@ Syllabus, Lecture Materials, Assignments, and Labs
  * [Review 1](./lecture_materials/exam_1_review)
  * [Graphical User Interfaces](./lecture_materials/graphical_user_interfaces)
  * [Review 2](./lecture_materials/exam_2_review)
+ * [Introduction To C++](./lecture_materials/introduction_to_c++)
  
 ### Assignments
  * [General Assignment Information](./assignments)
