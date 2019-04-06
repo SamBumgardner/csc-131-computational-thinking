@@ -30,8 +30,6 @@ Paste the following `main()` function into your program to test your functions:
  * Note that this function expects that you have already added `#include <iostream>` and `using namespace std;` to your program.
 ```c++
 int main() {
-    char dummy;
-    
     int int1, int2;
     cout << "Please enter two integers to add: ";
     cin >> int1 >> int2;
