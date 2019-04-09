@@ -3,6 +3,7 @@
 
 ### Lecture Slides
  * [C++ Basic Constructs](https://docs.google.com/presentation/d/1j9Ik_DNFQWR4h15vtWa8-tFjRHB8gZPZ8LRyI9Ihjkk/edit?usp=sharing)
+ * [Control Statements](https://docs.google.com/presentation/d/1LcwSrsmlZGT4F5mpUied-kkPxLccF9iJezE4N04V2D4/edit?usp=sharing)
 
 ### C++ Example Programs
 Examples will be added as we go over them in class, and I expect each sub-section of C++ content will end up getting its own little folder of programs. A master list of uploaded examples will be maintained here.
