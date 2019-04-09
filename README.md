@@ -24,6 +24,7 @@ Syllabus, Lecture Materials, Assignments, and Labs
  * [Assignment 3](./assignments/assignment_3)
  * [Assignment 4](./assignments/assignment_4)
  * [Assignment 5](./assignments/assignment_5)
+ * [Assignment 6](./assignments/assignment_6)
  
 ### Labs
  * [Lab 0](./labs/lab_0.md)
