@@ -41,10 +41,16 @@ Examples will be added as we go over them in class, and I expect each sub-sectio
          * [file2.cpp](./file2.cpp) - Demonstrates writing to a file.
          * [files_.cpp](./files_readNumbers.cpp) - Demonstrates reading integers from a file via a while loop.
          * [files1.cpp](./files1.cpp) - A more thorough example of opening and working with a user-selected file that might not exist.
-     * [array_argument](./array_argument.cpp) - Demonstrates how to write a function that has an array-type parameter.
+     * [array_argument.cpp](./array_argument.cpp) - Demonstrates how to write a function that has an array-type parameter.
+     * [const_array.cpp](./const_array.cpp) - Demonstrates how array parameters can be made constant to prevent index reassignment.
+     * The following programs all have examples involving 2-D arrays.
+         * [range_based_for.cpp](./range_based_for.cpp) - Demonstrates use of a range-based for loop with an array.
+         * [random_2D_array.cpp](./random_2D_array.cpp) - Initializes a 2D-array with random numeric values.
+         * [PassTwoDimensionalArray.cpp](./PassTwoDimensionalArray.cpp) - Demonstrates how 2D-arrays can be used as parameters to a function.
+         * [GradeExam.cpp](./GradeExam.cpp) - More examples of using 2D-arrays with functions and more complex logic.
+     * [vector_demo.cpp](./vector_demo.cpp)
+     * [vector_of_vectors.cpp](./vector_of_vectors.cpp)
      
-     
-
 ### External Reference
  * [LearnCpp.com](https://www.learncpp.com/) - A truly excellent resource for learning C++. I tend to prefer its approach to learning the language - focusing on topics like header files and multi-file programs early is a particularly appealing to me. It's not required reading, but consider this resource an excellent supplement to everything our in-class lecture focuses on.
  * [General C++ Reference](https://en.cppreference.com/w/) - Not terribly easy to read, but it is a pretty comprehensive source of detailed C++ information.
