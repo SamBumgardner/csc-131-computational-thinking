@@ -25,7 +25,25 @@ Examples will be added as we go over them in class, and I expect each sub-sectio
      * [subtractionQuiz.cpp](./subtractionQuiz.cpp) - Demonstrates random number generation.
      * [dollarFormat.cpp](./dollarFormat.cpp) - Demonstrates use of `string` methods like `find` and `insert`.
      * [setprecision_test.cpp](./setprecision_test.cpp) - Demonstrates basic use of the `setprecision` function from the `iomanip` library.
- 
+ * **Control Statements** example programs:
+     * [round_off_errors.cpp](./round_off_errors.cpp) - Demonstrates how comparisions with floating point numbers can be unpredictable.
+     * [if_else_statement.cpp](./if_else_statement.cpp)
+     * [conditional_operator.cpp](./conditional_operator.cpp)
+     * The following programs all have examples of using `switch` statements:
+         * [switch_statement.cpp](./switch_statement.cpp)
+         * [switch_fallthrough.cpp](./switch_fallthrough.cpp) - Example of intentionally letting a switch statement "fall through" by not including `break` after a switch case is complete.
+         * [switch_menu.cpp](./switch_menu.cpp) - Example of using a switch statement to control the flow of a menu-driven program.
+     * [block_scope.cpp](./block_scope.cpp) - Demonstrates how variables go into and out of scope in a program with nested blocks of code.
+     * [same_name.cpp](./same_name.cpp) - Shows that redefining a local variable in a nested block (**while highly inadvisable!**) is valid in C++.
+     * [do_while.cpp](./do_while.cpp)
+     * [for_loop.cpp](./for_loop.cpp)
+     * The following programs all have examples of working with file input and output:
+         * [file2.cpp](./file2.cpp) - Demonstrates writing to a file.
+         * [files_.cpp](./files_readNumbers.cpp) - Demonstrates reading integers from a file via a while loop.
+         * [files1.cpp](./files1.cpp) - A more thorough example of opening and working with a user-selected file that might not exist.
+     * [array_argument](./array_argument.cpp) - Demonstrates how to write a function that has an array-type parameter.
+     
+     
 
 ### External Reference
  * [LearnCpp.com](https://www.learncpp.com/) - A truly excellent resource for learning C++. I tend to prefer its approach to learning the language - focusing on topics like header files and multi-file programs early is a particularly appealing to me. It's not required reading, but consider this resource an excellent supplement to everything our in-class lecture focuses on.
