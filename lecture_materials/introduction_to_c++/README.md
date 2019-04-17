@@ -23,8 +23,8 @@ Examples will be added as we go over them in class, and I expect each sub-sectio
      * [readString.cpp](./readString.cpp) - Demonstrates reading a string from standard input using `cin`.
      * [readString2.cpp](./readString2.cpp) - Demonstrates reading a multi-word string from standard input using the `getline` function.
      * [subtractionQuiz.cpp](./subtractionQuiz.cpp) - Demonstrates random number generation.
-     * [dollarFormat.cpp](./dollarFormat.cpp) - Demonstrates applying formatting rules to C++ output streams.
-     * [setprecision_test.cpp](./setprecision_test.cpp) - Demonstrates basic use of the `setprecision` function from the iomanip library.
+     * [dollarFormat.cpp](./dollarFormat.cpp) - Demonstrates use of `string` methods like `find` and `insert`.
+     * [setprecision_test.cpp](./setprecision_test.cpp) - Demonstrates basic use of the `setprecision` function from the `iomanip` library.
  
 
 ### External Reference
