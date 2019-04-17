@@ -1,6 +1,6 @@
 # CSC131: Computational Thinking 
 ## Homework Assignment # 6 
-**Due: TBD** - at the moment, I cannot guarantee that we'll actually end up turning this in, but I can guarantee that working through this short assignment will help you feel more comfortable with C++ and its string operations.
+**Due: 4/29/2019**
 
 **Objective:** Write a C++ program that reads a user-provided time in a 12-hour format and converts it into 24-hour format military time. 
 
