@@ -7,11 +7,25 @@
 
 ### C++ Example Programs
 Examples will be added as we go over them in class, and I expect each sub-section of C++ content will end up getting its own little folder of programs. A master list of uploaded examples will be maintained here.
- * [calculatePay.cpp](./calculatePay.cpp) - Examples of using `cout` to display data to the user and `cin` to read in their input.
- * The following programs all have examples of defining and using simple functions:
-     * [function_demo1.cpp](./function_demo1.cpp)
-     * [function_demo2.cpp](./function_demo2.cpp)
-     * [function_default_arguments.cpp](./function_default_arguments.cpp)
+ * **C++ Basic Constructs** example programs:
+     * [prog1.cpp](./prog1.cpp) - Basic "hello world" C++ program, good for testing out the whole compilation process.
+     * [calculatePay.cpp](./calculatePay.cpp) - Demonstrates use of `cout` to display data to the user and `cin` to read in their input.
+     * The following programs all have examples of defining and using simple functions:
+         * [function_demo1.cpp](./function_demo1.cpp) - First example program with functions.
+         * [function_demo2.cpp](./function_demo2.cpp) - Demonstrates basic use of function prototypes.
+         * [function_default_arguments.cpp](./function_default_arguments.cpp)
+         * [function_early_return.cpp](./function_early_return.cpp) - When a function has a return type of `void`, it can still use `return` to end function execution early.
+         * [function_parameters_promote_demote](./function_parameters_promote_demote.cpp) - C++ automatically promotes/demotes types as necessary to make argument types fit the parameters defined by a function. This can have undesired side effects.
+         * [function_global_constants.cpp](./function_global_constants.cpp) - Demonstrates using global variables from within a function.
+         * [function_overloading_functions.cpp](./function_overloading_functions.cpp) - Defining a function can be defined multiple times with the same name but different parameter types. When this is done, the compiler will use the types of arguments passed in during a function call to figure out which function definition to actually call.
+         * [function_reference_variables.cpp](./function_reference_variables.cpp) - Changes made to a reference variable (including reassignment!) persist after the function ends.
+         * [function_static_variables.cpp](./function_static_variables.cpp) - Static variables created within a function are only initialized the first time the function is called. After that, its values persist from function call to function call.
+     * [readString.cpp](./readString.cpp) - Demonstrates reading a string from standard input using `cin`.
+     * [readString2.cpp](./readString2.cpp) - Demonstrates reading a multi-word string from standard input using the `getline` function.
+     * [subtractionQuiz.cpp](./subtractionQuiz.cpp) - Demonstrates random number generation.
+     * [dollarFormat.cpp](./dollarFormat.cpp) - Demonstrates applying formatting rules to C++ output streams.
+     * [setprecision_test.cpp](./setprecision_test.cpp) - Demonstrates basic use of the `setprecision` function from the iomanip library.
+ 
 
 ### External Reference
  * [LearnCpp.com](https://www.learncpp.com/) - A truly excellent resource for learning C++. I tend to prefer its approach to learning the language - focusing on topics like header files and multi-file programs early is a particularly appealing to me. It's not required reading, but consider this resource an excellent supplement to everything our in-class lecture focuses on.
