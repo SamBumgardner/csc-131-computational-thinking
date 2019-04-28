@@ -4,6 +4,7 @@
 ### Lecture Slides
  * [C++ Basic Constructs](https://docs.google.com/presentation/d/1j9Ik_DNFQWR4h15vtWa8-tFjRHB8gZPZ8LRyI9Ihjkk/edit?usp=sharing)
  * [Control Statements](https://docs.google.com/presentation/d/1LcwSrsmlZGT4F5mpUied-kkPxLccF9iJezE4N04V2D4/edit?usp=sharing)
+ * [Pointers](https://docs.google.com/presentation/d/1mKdJjn21rhvzDvvV5RNKXY6R2CZtLRrSse3E4NKNMI8/edit?usp=sharing)
 
 ### C++ Example Programs
 Examples will be added as we go over them in class, and I expect each sub-section of C++ content will end up getting its own little folder of programs. A master list of uploaded examples will be maintained here.
@@ -50,6 +51,8 @@ Examples will be added as we go over them in class, and I expect each sub-sectio
          * [GradeExam.cpp](./GradeExam.cpp) - More examples of using 2D-arrays with functions and more complex logic.
      * [vector_demo.cpp](./vector_demo.cpp)
      * [vector_of_vectors.cpp](./vector_of_vectors.cpp)
+ * **Pointers** example programs:
+     * For now, please refer to Dr. Saquer's example programs on TRACE (`\\trace\Class\CSC-131\A\_Download\C++\Pointers`).
      
 ### External Reference
  * [LearnCpp.com](https://www.learncpp.com/) - A truly excellent resource for learning C++. I tend to prefer its approach to learning the language - focusing on topics like header files and multi-file programs early is a particularly appealing to me. It's not required reading, but consider this resource an excellent supplement to everything our in-class lecture focuses on.
