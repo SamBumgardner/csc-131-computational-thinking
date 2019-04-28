@@ -1,5 +1,5 @@
 # CSC 131 - Computational Thinking
-## Lab 11
+## Lab 12
 
 Write a program that loads sets of grades into a 2-D array, loads a set of student names into a vector, then displays each student's name and grades. 
 
