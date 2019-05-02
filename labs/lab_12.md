@@ -18,11 +18,11 @@ After your `main` function, write a function named `loadNames` that returns a ve
  * A string representing the user-selected file name to open and write to.
  
 The function should accomplish the following tasks:
- * Open the file for reading (using the "file name" parameter as the argument to `fopen()`).
+ * Open the file for reading (using the "file name" parameter as the argument to ifstream's `.open()`).
      * If the file fails to open, an error message should be displayed and the program should exit with a value of `1`.
  * Create a vector of strings to store student names in.
      * For the sake of the assignment, initialize the vector with size of 0.
- * Using a for loop, read each student name from the file and store it in your student names vector. The structure of your program should probably looks something like this:
+ * Using a `for` loop, read each student name from the file and store it in your student names vector. The structure of your program should probably looks something like this:
      ```c++
      // For students 0 - 4 (should happen a total 5 times), do the following...
          // Read a student name from the file
@@ -42,7 +42,7 @@ After your `main` function, write a function named `loadGrades` that **returns n
      * Remember that arrays are effectively always "passed by reference", so there's no need for an `&` operator here.
 
 The function should accomplish the following tasks:
- * Open the file for reading (using the "file name" parameter as the argument to `fopen()`).
+ * Open the file for reading (using the "file name" parameter as the argument to ifstream's `.open()`).
      * If the file fails to open, an error message should be displayed and the program should exit with a value of `1`.
  * Using nested for loops, read each integer from the file and store it in the grades 2-D array. The structure of your program should probably look something like this:
      ```c++
@@ -81,10 +81,10 @@ Paste the following `main()` function into your program to test your functions:
  * You should `#include` other libraries as needed for your other functions.
 ```c++
 int main() {
-    cout << "Loading names from "names.txt" now..." << endl << endl;
-    vector<int> names = loadNames("names.txt");
+    cout << "Loading names from \"names.txt\" now..." << endl << endl;
+    vector<string> names = loadNames("names.txt");
     
-    cout << "Loading grades from "grades.txt" now..." << endl << endl;
+    cout << "Loading grades from \"grades.txt\" now..." << endl << endl;
     int grades[5][10];
     loadGrades("grades.txt", grades);
     
