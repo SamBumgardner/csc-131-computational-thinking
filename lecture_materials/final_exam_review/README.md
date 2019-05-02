@@ -12,6 +12,29 @@ I recommend reviewing notes, **writing practice programs**, studying with other 
 If you have a solid foundation of knowledge (with well-prepared pages of notes) and plenty of practice, you should understand these topics on both a theoretical and practical level. If you're armed with that understanding, this test should be no trouble whatsoever.
 
 The topics that may be covered in the test are as follows:
- * Basic Constructs - more details coming soon
+ * Basic Constructs
+     * What is the purpose of a compiler?
+     * Comment syntax 
+         * `//` for single line
+         * `/* ... */` for multi-line
+     * Basic namespace rules
+         * How do we use keywords from standard libraries (like `cout` or `endl`) if we don't put `using namespace std` in a program?
+     * Displaying output with `cout`
+     * "Identifier" (variable and function) name rules
+         * Recognize if an identifier is illegal
+     * Knowledge of basic types. For each type mentioned in the slides, know the following:
+         * Type name
+         * Purpose / use case for the type. When is it appropriate to use?
+     * Defining and initializing variables - be familiar with all methods in slides.
+     * C++ operators
+         * Addition: \+
+         * Subtraction: \-
+         * Multiplication: \*
+         * Division: /
+         * Modulo: %
+         * Increment: ++
+         * Decrement: --
+         * Assignment: =
+         * Compound Assignment: +=, -=, *=, /=
  * Control Statements - more details coming soon
  * Pointers - more details coming soon
