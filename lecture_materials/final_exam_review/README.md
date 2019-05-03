@@ -104,4 +104,6 @@ The topics that may be covered in the test are as follows:
          * `.pop_back()`
 
 #### Pointers
-
+ * address operator `&`
+ * declaring pointer variables - `int *myIntPointer`
+ * indirection operator `*`
