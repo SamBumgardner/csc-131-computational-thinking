@@ -12,29 +12,58 @@ I recommend reviewing notes, **writing practice programs**, studying with other 
 If you have a solid foundation of knowledge (with well-prepared pages of notes) and plenty of practice, you should understand these topics on both a theoretical and practical level. If you're armed with that understanding, this test should be no trouble whatsoever.
 
 The topics that may be covered in the test are as follows:
- * Basic Constructs
-     * What is the purpose of a compiler?
-     * Comment syntax 
-         * `//` for single line
-         * `/* ... */` for multi-line
-     * Basic namespace rules
-         * How do we use keywords from standard libraries (like `cout` or `endl`) if we don't put `using namespace std` in a program?
-     * Displaying output with `cout`
-     * "Identifier" (variable and function) name rules
-         * Recognize if an identifier is illegal
-     * Knowledge of basic types. For each type mentioned in the slides, know the following:
-         * Type name
-         * Purpose / use case for the type. When is it appropriate to use?
-     * Defining and initializing variables - be familiar with all methods in slides.
-     * C++ operators
-         * Addition: \+
-         * Subtraction: \-
-         * Multiplication: \*
-         * Division: /
-         * Modulo: %
-         * Increment: ++
-         * Decrement: --
-         * Assignment: =
-         * Compound Assignment: +=, -=, *=, /=
- * Control Statements - more details coming soon
- * Pointers - more details coming soon
+
+#### Basic Constructs: Slides 5 - 82
+ * What is the purpose of a compiler?
+ * Comment syntax 
+     * `//` for single line
+     * `/* ... */` for multi-line
+ * Basic namespace rules
+     * How do we use keywords from standard libraries (like `cout` or `endl`) if we don't put `using namespace std` in a program?
+ * Basic output with `cout` and `endl`
+ * "Identifier" (variable and function) name rules
+     * Recognize if an identifier is illegal
+ * Knowledge of basic types. For each type mentioned in the slides, know the following:
+     * Type name
+     * Purpose / use case for the type. When is it appropriate to use?
+ * Defining and initializing variables - be familiar with all methods in slides.
+ * C++ operators
+     * Addition: \+
+     * Subtraction: \-
+     * Multiplication: \*
+     * Division: /
+     * Modulo: %
+     * Increment: ++
+     * Decrement: --
+     * Assignment: =
+     * Compound Assignment: +=, -=, *=, /=
+ * The `string` type basic usage
+     * It's important to note the differences between `string` and `char`
+ * Basic input with `cin`
+     * Also understand usage of `readline()`
+ * `constexpr` and `const`
+     * Understand the difference between the two
+ * Function definition syntax
+ * Function prototype syntax
+     * Understand why prototypes are useful (and sometimes necessary in C++)
+ * How functions work in C++
+     * parameters
+     * default pass-by-value behavior
+     * optional pass-by-reference behavior (using `&` operator)
+     * defining a function with default parameters
+     * `return` behavior
+ * How overloading function definitions work
+ * Global variables
+     * How to define a global variable
+     * Default initialization value - how is it different from local variables?
+ * Static local variables
+     * How to define a static local variable
+     * Default initialization value - how is it different from non-static local variables?
+     * What do static local variables do?
+ * Usage of `exit()` function
+ 
+#### Control Statements
+
+
+#### Pointers
+
