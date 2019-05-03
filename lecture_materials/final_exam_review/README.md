@@ -89,7 +89,10 @@ The topics that may be covered in the test are as follows:
      * How to retrieve / use data from array
      * How to write a function that takes an array as a parameter
  * 2-D Arrays
-     * 
+     * How to create
+     * How to modify / assign data to 2-D array
+     * How to retrieve / use data from 2-D array
+     * How to write a function that takes a 2-D array as a parameter
  * Vectors
      * How to create a vector that stores different types
      * How to modify / assign data to a vector
