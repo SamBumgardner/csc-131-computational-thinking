@@ -63,7 +63,42 @@ The topics that may be covered in the test are as follows:
  * Usage of `exit()` function
  
 #### Control Statements
-
+ * Relational operators
+     * less than: `<`
+     * less than or equal to: `<=`
+     * greater than: `>`
+     * greater than or equal to: `>=`
+     * equal to: `==`
+     * not equal to: `!=`
+ * Pay attention to slide 19, which notes that the result of using a relational operator is always a true/false value
+ * Logical operators
+     * not: `!`
+     * logical and: `&&`
+     * logical or: `||`
+ * Understand short-circuit evaluation with logical operators
+ * `if`, `else if`, `else` syntax and usage
+ * Usage of the conditional operator
+ * `switch` statmeents
+ * `break`- purpose and usage
+ * `while` loops
+ * `for` loops - standard and range-based
+ * File input and output with `ifstream` and `ofstream`
+ * Arrays
+     * How to create
+     * How to modify / assign data to array
+     * How to retrieve / use data from array
+     * How to write a function that takes an array as a parameter
+ * 2-D Arrays
+     * 
+ * Vectors
+     * How to create a vector that stores different types
+     * How to modify / assign data to a vector
+     * How to retrieve / use data from a vector
+     * Understand usage of vector member functions
+         * `.at()`
+         * `.size()`
+         * `.push_back()`
+         * `.pop_back()`
 
 #### Pointers
 
