@@ -21,6 +21,7 @@ The topics that may be covered in the test are as follows:
  * Basic namespace rules
      * How do we use keywords from standard libraries (like `cout` or `endl`) if we don't put `using namespace std` in a program?
  * Basic output with `cout` and `endl`
+     * How to import stream i/o into a program: `#include<iostream>`
  * "Identifier" (variable and function) name rules
      * Recognize if an identifier is illegal
  * Knowledge of basic types. For each type mentioned in the slides, know the following:
@@ -39,6 +40,7 @@ The topics that may be covered in the test are as follows:
      * Compound Assignment: +=, -=, *=, /=
  * The `string` type basic usage
      * It's important to note the differences between `string` and `char`
+     * How to import strings into a program: `#include<string>`
  * Basic input with `cin`
      * Also understand usage of `readline()`
  * `constexpr` and `const`
@@ -61,6 +63,7 @@ The topics that may be covered in the test are as follows:
      * Default initialization value - how is it different from non-static local variables?
      * What do static local variables do?
  * Usage of `exit()` function
+     * How to import system commands like `exit()` into a program: `#include<cstdlib>`
  
 #### Control Statements
  * Relational operators
@@ -102,6 +105,7 @@ The topics that may be covered in the test are as follows:
          * `.size()`
          * `.push_back()`
          * `.pop_back()`
+     * How to import vectors into a program: `#include<vector>`
 
 #### Pointers
  * address operator `&`
