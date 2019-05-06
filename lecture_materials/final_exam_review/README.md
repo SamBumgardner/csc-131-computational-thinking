@@ -86,6 +86,7 @@ The topics that may be covered in the test are as follows:
  * `while` loops
  * `for` loops - standard and range-based
  * File input and output with `ifstream` and `ofstream`
+     * How to import file stream types: `#include<fstream>`
  * Arrays
      * How to create
      * How to modify / assign data to array
