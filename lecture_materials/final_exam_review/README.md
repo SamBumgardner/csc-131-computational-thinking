@@ -112,3 +112,6 @@ The topics that may be covered in the test are as follows:
  * address operator `&`
  * declaring pointer variables - `int *myIntPointer`
  * indirection operator `*`
+ * allocating memory with `new` - for single objects and arrays.
+ * de-allocating memory with `delete` - for single objects and arrays.
+ * pointer and integer addition - using a pointer to access array indexes.
