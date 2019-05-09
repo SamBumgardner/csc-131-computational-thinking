@@ -42,7 +42,7 @@ The topics that may be covered in the test are as follows:
      * It's important to note the differences between `string` and `char`
      * How to import strings into a program: `#include<string>`
  * Basic input with `cin`
-     * Also understand usage of `readline()`
+     * Also understand usage of `getline()`
  * `constexpr` and `const`
      * Understand the difference between the two
  * Function definition syntax
